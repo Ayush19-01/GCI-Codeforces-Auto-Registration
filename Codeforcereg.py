@@ -1,6 +1,7 @@
 #Made for the sole purpose of GCI 2019
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.keys import Keys
 a=input('Handle(must be unique): ')
 b=input('Email-id(Must be unused before): ')
 c=input('Password(strong and difficult to crack): ')
