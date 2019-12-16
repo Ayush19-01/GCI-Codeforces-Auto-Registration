@@ -5,6 +5,7 @@ from selenium.webdriver.common.keys import Keys
 a=input('Handle(must be unique): ')
 b=input('Email-id(Must be unused before): ')
 c=input('Password(strong and difficult to crack): ')
+#Automation Starts
 driver=webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://codeforces.com/register')
 h1=driver.find_element_by_name('handle')
