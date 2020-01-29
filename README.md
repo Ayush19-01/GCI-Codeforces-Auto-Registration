@@ -8,3 +8,7 @@ Steps:
 4) Codeforced registration link is opened on that new  tab.
 5) The user entered data is then automatically filled in the registration form in the correct sequence
 6) Submit button is pressed automatically and then the registration is completed
+
+
+SS:
+![alt text](https://github.com/Ayush19-01/GCI-Codeforces-Auto-Registration/blob/master/screenshot.png)
